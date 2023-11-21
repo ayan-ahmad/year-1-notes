@@ -1,4 +1,4 @@
-u## Paths
+## Paths
 ### Relative
 This is the path relative from where you are:
 If you are in JMS, the path would just be `/407`

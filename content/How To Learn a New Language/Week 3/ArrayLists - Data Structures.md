@@ -16,7 +16,7 @@ list.add(1, "World"); // Will shift other values and insert value
 list.set(1, "World"); // Set item at index with value
 
 list.get(0); // Get value at index 0
-list.remove(1) // Removes item at index 1
+list.remove(1) // Removes item at index 1 (Returns value i.e. "World")
 list.remove("World") // Returns True or False
 ```
 

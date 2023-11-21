@@ -28,11 +28,11 @@ def getHashData(hash, str):
 	data = getDataAtHash(hash)
 	if len(data) == 1:
 		return data[0]
-	elif len(data) > 1
+	elif len(data) > 1:
 		for item in data:
 			if item == str:
 				return str
-	else
+	else:
 		raise KeyError("Key does not exist in dict")
 ```
 Linear has an O(n) complexity all the time

@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "94895e0c0a3d57bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f5b4dfd6aae8f32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c85ea68ac5e13bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6e141c908da9b181",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ca4b29867f1c569",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd929f8202b8d377",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3c00c60adb298006",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ec730248793a9b0c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8b6a6c8f26f5dda0",
+    "type": "split",
+    "children": [
+      {
+        "id": "5674aa9955e76c4c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "68b37956f5a26438",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9f884523aac3c4e0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e11bf54251c5753e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e20f6cc07e183df1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "index.md"
+              }
+            }
+          },
+          {
+            "id": "3464a7ff56482fc0",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 322.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0c85ea68ac5e13bd",
+  "lastOpenFiles": [
+    "Foundations of PSE.md",
+    "index.md",
+    "Foundations of PSE/Week 2/Cohesion.md",
+    "Cohesion.md",
+    "Foundations of PSE/Week 1/Intellectual Property.md",
+    "Foundations of PSE/Week 1/Git(Lab).md",
+    "Foundations of PSE/Week 4/Testing.md",
+    "README.md",
+    "Foundations of PSE/Week 4",
+    "How To Learn a New Language/Word Bank.md",
+    "Foundations of PSE/Week 2/Coupling.md",
+    "How To Learn a New Language/Week 3/Files.md",
+    "How To Learn a New Language/Week 3/Dictionaries - Data Structures.md",
+    "How To Learn a New Language/Week 3/Arrays - Data Structures.md",
+    "How To Learn a New Language/Week 3/ArrayLists - Data Structures.md",
+    "How To Learn a New Language/Week 2/Scope.md",
+    "How To Learn a New Language/Week 2/Lists - Data Structures.md",
+    "How To Learn a New Language/Week 1/Types.md",
+    "How To Learn a New Language/Week 1/Sub-Programs.md",
+    "How To Learn a New Language/Week 1/Iteration.md",
+    "How To Learn a New Language/Week 1/Control.md",
+    "Foundations of PSE/Week 3/Retrospective.md",
+    "Foundations of PSE/Week 3/Requirement Gathering.md",
+    "Foundations of PSE/Week 3/Development Process.md",
+    "Foundations of PSE/Week 3/Computer Security.md",
+    "Foundations of PSE/Week 3/Computer Misuse.md",
+    "Foundations of PSE/Week 2/Navigating Codebase.md",
+    "New Text Document.txt",
+    "New folder",
+    "How To Learn a New Language/Week 3",
+    "Foundations of PSE/Week 3",
+    "How To Learn a New Language/Week 2",
+    "Foundations of PSE/Week 2",
+    "How To Learn a New Language/Week 1",
+    "Foundations of PSE/Week 1",
+    "Foundations of PSE"
+  ]
+}
