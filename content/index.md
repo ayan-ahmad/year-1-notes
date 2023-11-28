@@ -16,6 +16,11 @@
 		- [[Development Process]] (W.I.P)
 		- [[Requirement Gathering]] (W.I.P)
 		- [[Retrospective]] (W.I.P)
+	- Week 4
+		- [[Testing]]
+	- Week 5
+		- [[Development Styles]]
+		- [[Development Styles]]
 - How To Learn A Language
 	- Week 1
 		- [[Control]]
@@ -30,6 +35,9 @@
 		- [[Arrays - Data Structures]]
 		- [[Dictionaries - Data Structures]]
 		- [[Files]]
+	- Week 5
+		- [[Pillars - OOP]]
+		- [[Class Concepts - OOP]]
 ## Use in obsidian
 1. Clone the [repo](https://github.com/ayan-ahmad/year-1-notes)
 2. Open `content/` in obsidian as a vault

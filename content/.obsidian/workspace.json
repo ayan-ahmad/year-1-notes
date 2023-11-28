@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How To Learn a New Language/Week 5/Introduction - OOP.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How To Learn a New Language/Week 5/Introduction - OOP.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "How To Learn a New Language/Week 5/Introduction - OOP.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How To Learn a New Language/Week 5/Introduction - OOP.md"
+                "file": "index.md"
               }
             }
           }
@@ -148,18 +148,35 @@
   },
   "active": "cc8bef8e71ae3b88",
   "lastOpenFiles": [
+    "How To Learn a New Language/Week 5/Pillars - OOP.md",
+    "Foundations of PSE/Week 5/Clean code.md",
+    "Foundations of PSE/Week 1/Intellectual Property.md",
+    "How To Learn a New Language/Week 5/Class Concepts - OOP.md",
+    "index.md",
+    "Foundations of PSE/Week 3/Requirement Gathering.md",
+    "Foundations of PSE/Week 3/Development Process.md",
+    "Foundations of PSE/Week 3/Computer Security.md",
+    "Foundations of PSE/Week 3/Computer Misuse.md",
+    "Foundations of PSE/Week 2/Coupling.md",
+    "Foundations of PSE/Week 2/Navigating Codebase.md",
+    "Foundations of PSE/Week 2/Cohesion.md",
+    "Foundations of PSE/Week 1/Toolsets.md",
+    "Foundations of PSE/Week 1/Software Legal Issues.md",
+    "Foundations of PSE/Week 1/Privacy.md",
+    "Foundations of PSE/Week 1/Git(Lab).md",
+    "Foundations of PSE/Week 3/Retrospective.md",
+    "How To Learn a New Language/Week 2/Scope.md",
+    "Foundations of PSE/Week 5/Development Styles.md",
+    "Foundations of PSE/Untitled",
+    "Foundations of PSE/Week 4/Testing.md",
+    "Foundations of PSE/Week 5",
     "How To Learn a New Language/Week 3/ArrayLists - Data Structures.md",
-    "How To Learn a New Language/Week 5/Introduction - OOP.md",
     "How To Learn a New Language/Week 5",
-    "How To Learn a New Language/Week 5/Introduction - OOP.md",
     "How To Learn a New Language/Week 5",
     "How To Learn a New Language/Week 2/Lists - Data Structures.md",
     "How To Learn a New Language/Week 1/Control.md",
     "How To Learn a New Language/Week 3/Files.md",
     "How To Learn a New Language/Week 3/Dictionaries - Data Structures.md",
-    "How To Learn a New Language/Week 3/Arrays - Data Structures.md",
-    "How To Learn a New Language/Week 1/Iteration.md",
-    "How To Learn a New Language/Week 1/Sub-Programs.md",
-    "index.md"
+    "How To Learn a New Language/Week 3/Arrays - Data Structures.md"
   ]
 }

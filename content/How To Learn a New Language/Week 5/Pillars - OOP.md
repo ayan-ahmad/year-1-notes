@@ -40,8 +40,10 @@ public class World {
 Abstraction is the simplification of an object and provides a high-level interface for other objects which interact with it:
 This includes:
 - Making high-level methods public and accessible by other objects
+
   **With Abstraction**
   1. Get ready for university
+  
   **Without Abstraction**
   1. Wake up
   2. Get out of bed
