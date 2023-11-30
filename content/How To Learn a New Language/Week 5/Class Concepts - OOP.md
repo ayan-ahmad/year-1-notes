@@ -47,7 +47,9 @@ print(Variables.version) #2
 ```
 
 > [!NOTE] Note
-> An instance is a version of the class which is initialised with the `new` keyword
+> An instance is a version of the class which is initialised with the `new` keyword in most languages
+
+Python (static method)
 ### Instance
 Instance variables are variables that are unique for each instance of a class
 

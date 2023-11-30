@@ -3,23 +3,22 @@
 	- Week 1
 		- [[Git(Lab)]]
 		- [[Intellectual Property]]
-		- [[Privacy]] (W.I.P)
-		- [[Software Legal Issues]] (W.I.P)
-		- [[Toolsets]] (W.I.P)
+		- [[Privacy]]
+		- [[Software Legal Issues]]
+		- [[Toolsets]]
 	- Week 2
-		- [[Cohesion]] (W.I.P)
+		- [[Cohesion]]
 		- [[Coupling]]
-		- [[Navigating Codebase]] (W.I.P)
 	- Week 3
-		- [[Computer Misuse]] (W.I.P)
-		- [[Computer Security]] (W.I.P)
-		- [[Development Process]] (W.I.P)
-		- [[Requirement Gathering]] (W.I.P)
-		- [[Retrospective]] (W.I.P)
+		- [[Computer Misuse]]
+		- [[Computer Security]]
+		- [[Development Process]]
+		- [[Requirement Gathering]]
+		- [[Retrospective]]
 	- Week 4
 		- [[Testing]]
 	- Week 5
-		- [[Development Styles]]
+		- [[Clean code]]
 		- [[Development Styles]]
 - How To Learn A Language
 	- Week 1
