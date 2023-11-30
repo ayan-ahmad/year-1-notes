@@ -78,7 +78,17 @@ public class Counter {
 Python
 ```python
 class Counter:
-	__self__
+	def __init__(self):
+		self.total = 0
+
+	def count(self):
+		self.total+=1
+		
+counter1 = Counter()
+counter2 = Counter()
+counter1.count()
+print(counter1.total) #1
+print(counter2.total) #0
 ```
 ### Final
 The final keyword makes a variable unable to be changed/edited. It is usually used alongside the static keyword.
