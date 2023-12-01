@@ -14,7 +14,6 @@
 		- [[Computer Security]]
 		- [[Development Process]]
 		- [[Requirement Gathering]]
-		- [[Retrospective]]
 	- Week 4
 		- [[Testing]]
 	- Week 5

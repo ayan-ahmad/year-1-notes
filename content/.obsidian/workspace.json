@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Foundations of PSE/Week 3/Development Process.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Foundations of PSE/Week 3/Development Process.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Foundations of PSE/Week 3/Development Process.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Foundations of PSE/Week 3/Development Process.md"
+                "file": "index.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "cc8bef8e71ae3b88",
   "lastOpenFiles": [
-    "index.md",
     "Foundations of PSE/Week 3/Development Process.md",
+    "index.md",
     "Foundations of PSE/Week 3/Requirement Gathering.md",
     "Foundations of PSE/Week 1/Toolsets.md",
     "How To Learn a New Language/Week 5/Class Concepts - OOP.md",
