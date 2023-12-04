@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How To Learn a New Language/Week 5/Polymorphism - OOP.md",
+                "file": "How To Learn a New Language/Week 6/Interfaces - OOP.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How To Learn a New Language/Week 5/Polymorphism - OOP.md",
+                "file": "How To Learn a New Language/Week 6/Interfaces - OOP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "How To Learn a New Language/Week 5/Polymorphism - OOP.md",
+                "file": "How To Learn a New Language/Week 6/Interfaces - OOP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How To Learn a New Language/Week 5/Polymorphism - OOP.md"
+                "file": "How To Learn a New Language/Week 6/Interfaces - OOP.md"
               }
             }
           }
@@ -148,13 +148,15 @@
   },
   "active": "cc8bef8e71ae3b88",
   "lastOpenFiles": [
-    "index.md",
+    "How To Learn a New Language/Week 5/Class Concepts - OOP.md",
+    "How To Learn a New Language/Week 6/Interfaces - OOP.md",
+    "How To Learn a New Language/Week 5/Pillars - OOP.md",
     "How To Learn a New Language/Week 5/Polymorphism - OOP.md",
+    "How To Learn a New Language/Week 6",
+    "index.md",
     "Foundations of PSE/Week 3/Development Process.md",
     "Foundations of PSE/Week 3/Requirement Gathering.md",
     "Foundations of PSE/Week 1/Toolsets.md",
-    "How To Learn a New Language/Week 5/Class Concepts - OOP.md",
-    "How To Learn a New Language/Week 5/Pillars - OOP.md",
     "Foundations of PSE/Week 3/Computer Security.md",
     "Foundations of PSE/Week 3/Retrospective.md",
     "Foundations of PSE/Week 4/Testing.md",
@@ -176,7 +178,6 @@
     "How To Learn a New Language/Week 5",
     "How To Learn a New Language/Week 5",
     "How To Learn a New Language/Week 2/Lists - Data Structures.md",
-    "How To Learn a New Language/Week 1/Control.md",
-    "How To Learn a New Language/Week 3/Files.md"
+    "How To Learn a New Language/Week 1/Control.md"
   ]
 }
