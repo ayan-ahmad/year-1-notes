@@ -19,6 +19,10 @@
 	- Week 5
 		- [[Clean code]]
 		- [[Development Styles]]
+	- Week 6
+		- [[Design Patterns]]
+		- [[Strategy Design Pattern]]
+		- [[UML]]
 - How To Learn A Language
 	- Week 1
 		- [[Control]]
@@ -36,6 +40,8 @@
 	- Week 5
 		- [[Pillars - OOP]]
 		- [[Class Concepts - OOP]]
+	- Week 6
+		- [[Interfaces - OOP]]
 ## Use in obsidian
 1. Clone the [repo](https://github.com/ayan-ahmad/year-1-notes)
 2. Open `content/` in obsidian as a vault
