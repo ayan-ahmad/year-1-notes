@@ -15,8 +15,8 @@ A standardized way with visuals to show various parts of software design
 |Generalisation|Type|Description|Shape|
 |-----|------|------|------|
 |Is a |Inheritance| `x` is a `y` means `x` is a subclass of `y`|Triangle Solid|
-|Has a |Composition| `x` has a `y` means that the child `y` cannot live outside the context of x|Diamond Solid|
-|Has a/made with |Aggregation| `x` made with `y`, this means that `x` would work without `y`|Diamond Empty|
+|Has a |Aggregation| `x` has a `y` means that the child `y` cannot live outside the context of x|Diamond Solid|
+|Has a/made with |Composition| `x` made with `y`, this means that `x` would work without `y`|Diamond Empty|
 https://stackoverflow.com/a/2218970
 
 
