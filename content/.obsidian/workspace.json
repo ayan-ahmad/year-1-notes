@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "How To Learn a New Language/Week 6/Abstraction - OOP.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "How To Learn a New Language/Week 6/Abstraction - OOP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "How To Learn a New Language/Week 6/Abstraction - OOP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "How To Learn a New Language/Week 6/Abstraction - OOP.md"
               }
             }
           }
@@ -148,13 +148,14 @@
   },
   "active": "cc8bef8e71ae3b88",
   "lastOpenFiles": [
+    "How To Learn a New Language/Week 5/Class Concepts - OOP.md",
+    "How To Learn a New Language/Week 6/Abstraction - OOP.md",
     "How To Learn a New Language/Week 6/Interfaces - OOP.md",
     "Foundations of PSE/Week 6/Strategy Design Pattern.md",
-    "Foundations of PSE/Week 6/Design Patterns.md",
     "Foundations of PSE/Week 6/UML.md",
-    "Foundations of PSE/Week 6",
     "index.md",
-    "How To Learn a New Language/Week 5/Class Concepts - OOP.md",
+    "Foundations of PSE/Week 6/Design Patterns.md",
+    "Foundations of PSE/Week 6",
     "How To Learn a New Language/Week 5/Pillars - OOP.md",
     "How To Learn a New Language/Week 5/Polymorphism - OOP.md",
     "How To Learn a New Language/Week 6",
@@ -175,7 +176,6 @@
     "Foundations of PSE/Week 1/Privacy.md",
     "Foundations of PSE/Week 1/Git(Lab).md",
     "How To Learn a New Language/Week 2/Scope.md",
-    "Foundations of PSE/Week 5/Development Styles.md",
     "Foundations of PSE/Week 5",
     "How To Learn a New Language/Week 5",
     "How To Learn a New Language/Week 5"
