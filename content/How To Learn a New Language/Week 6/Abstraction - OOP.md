@@ -15,4 +15,4 @@ What's different:
 - A class can only extend one abstract class
 ### When to use what
 - We use an abstract class when `x is y` (see [[UML]], you would use this for a `Fiat500` is a `Car`)
-- We use an interface when `x is capable of doing y` (e.g. from [[Strategy Design Pattern]], the example of providers may be able to do more than just message, some may have call functions, `MessageProvider` is capable of `sendMessage`)
+- We use an interface when `x is capable of doing y` (e.g. from [[Strategy Design Pattern]], the example of providers may be able to do more than just message, `SMS` is capable of being a `MessageProvider` but can also be capable of being an `ImageProvider` for example)
