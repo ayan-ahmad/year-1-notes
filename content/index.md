@@ -23,6 +23,7 @@
 		- [[Design Patterns]]
 		- [[Strategy Design Pattern]]
 		- [[UML]]
+		- [[Observer Design Pattern]]
 - How To Learn A Language
 	- Week 1
 		- [[Control]]
@@ -42,6 +43,7 @@
 		- [[Class Concepts - OOP]]
 	- Week 6
 		- [[Interfaces - OOP]]
+		- [[Abstraction - OOP]]
 ## Use in obsidian
 1. Clone the [repo](https://github.com/ayan-ahmad/year-1-notes)
 2. Open `content/` in obsidian as a vault

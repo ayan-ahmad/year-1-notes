@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Foundations of PSE/Week 6/UML.md",
+                "file": "Foundations of PSE/Week 6/Observer Design Pattern.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Foundations of PSE/Week 6/UML.md",
+                "file": "Foundations of PSE/Week 6/Observer Design Pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Foundations of PSE/Week 6/UML.md",
+                "file": "Foundations of PSE/Week 6/Observer Design Pattern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Foundations of PSE/Week 6/UML.md"
+                "file": "Foundations of PSE/Week 6/Observer Design Pattern.md"
               }
             }
           }
@@ -146,15 +146,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cc8bef8e71ae3b88",
+  "active": "4990d2840c270cf7",
   "lastOpenFiles": [
+    "Foundations of PSE/Week 6/Strategy Design Pattern.md",
+    "Foundations of PSE/Week 6/UML.md",
+    "Foundations of PSE/Week 6/Observer Design Pattern.md",
+    "index.md",
+    "Foundations of PSE/Week 6/Design Patterns.md",
     "How To Learn a New Language/Week 6/Interfaces - OOP.md",
     "How To Learn a New Language/Week 6/Abstraction - OOP.md",
     "How To Learn a New Language/Week 5/Class Concepts - OOP.md",
-    "Foundations of PSE/Week 6/Strategy Design Pattern.md",
-    "Foundations of PSE/Week 6/UML.md",
-    "index.md",
-    "Foundations of PSE/Week 6/Design Patterns.md",
     "Foundations of PSE/Week 6",
     "How To Learn a New Language/Week 5/Pillars - OOP.md",
     "How To Learn a New Language/Week 5/Polymorphism - OOP.md",
@@ -175,7 +176,6 @@
     "Foundations of PSE/Week 1/Intellectual Property.md",
     "Foundations of PSE/Week 1/Privacy.md",
     "Foundations of PSE/Week 1/Git(Lab).md",
-    "How To Learn a New Language/Week 2/Scope.md",
     "Foundations of PSE/Week 5",
     "How To Learn a New Language/Week 5",
     "How To Learn a New Language/Week 5"
