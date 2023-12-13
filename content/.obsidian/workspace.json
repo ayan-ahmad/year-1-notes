@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How To Learn a New Language/Week 6/Abstraction - OOP.md",
+                "file": "How To Learn a New Language/Week 7/Enums.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d38f37f437d04304",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Foundations of PSE/Week 7/DevOps (Traditional) (W.I.P).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How To Learn a New Language/Week 6/Abstraction - OOP.md",
+                "file": "Foundations of PSE/Week 7/DevOps (Traditional) (W.I.P).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "How To Learn a New Language/Week 6/Abstraction - OOP.md",
+                "file": "Foundations of PSE/Week 7/DevOps (Traditional) (W.I.P).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How To Learn a New Language/Week 6/Abstraction - OOP.md"
+                "file": "Foundations of PSE/Week 7/DevOps (Traditional) (W.I.P).md"
               }
             }
           }
@@ -146,13 +159,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4990d2840c270cf7",
+  "active": "d38f37f437d04304",
   "lastOpenFiles": [
+    "Foundations of PSE/Week 7/Singleton.md",
+    "Foundations of PSE/Week 7/structure.png",
+    "How To Learn a New Language/Week 7/Enums.md",
+    "How To Learn a New Language/Week 7/Exceptions.md",
+    "How To Learn a New Language/Week 7/File IO.md",
+    "Foundations of PSE/Week 7/State Design Pattern.md",
+    "Foundations of PSE/Week 7/DevOps (Traditional) (W.I.P).md",
+    "Foundations of PSE/Word Bank.md",
+    "Foundations of PSE/Week 6/Observer Design Pattern.md",
+    "Pasted image 20231212000409.png.md",
+    "Assets",
+    "Pasted image 20231212000409.png",
+    "Foundations of PSE/Week 7",
+    "How To Learn a New Language/Week 6/Abstraction - OOP.md",
+    "How To Learn a New Language/Week 7",
     "How To Learn a New Language/Week 6/Interfaces - OOP.md",
     "How To Learn a New Language/Word Bank.md",
     "Foundations of PSE/Week 6/Strategy Design Pattern.md",
-    "How To Learn a New Language/Week 6/Abstraction - OOP.md",
-    "Foundations of PSE/Week 6/Observer Design Pattern.md",
     "Foundations of PSE/Week 6/UML.md",
     "index.md",
     "Foundations of PSE/Week 6/Design Patterns.md",
@@ -167,15 +193,6 @@
     "Foundations of PSE/Week 3/Computer Security.md",
     "Foundations of PSE/Week 3/Retrospective.md",
     "Foundations of PSE/Week 4/Testing.md",
-    "Foundations of PSE/Week 3/Computer Misuse.md",
-    "Foundations of PSE/Week 2/Coupling.md",
-    "Foundations of PSE/Week 2/Navigating Codebase.md",
-    "Foundations of PSE/Week 2/Cohesion.md",
-    "Foundations of PSE/Week 5/Clean code.md",
-    "Foundations of PSE/Week 1/Software Legal Issues.md",
-    "Foundations of PSE/Week 1/Intellectual Property.md",
-    "Foundations of PSE/Week 1/Privacy.md",
-    "Foundations of PSE/Week 1/Git(Lab).md",
     "Foundations of PSE/Week 5",
     "How To Learn a New Language/Week 5",
     "How To Learn a New Language/Week 5"
