@@ -1,4 +1,0 @@
-|Word|Definition|
-|----|----------|
-|State||
-|Branch||
