@@ -1,3 +1,5 @@
+## What is this?
+These are my notes for the first year of the Apprentice Software Engineering BSc course at UofG. These notes are deployed on GH Pages using [Quartz](https://quartz.jzhao.xyz/).
 ## File Structure
 - Foundations of PSE
 	- Week 1
@@ -24,6 +26,14 @@
 		- [[Strategy Design Pattern]]
 		- [[UML]]
 		- [[Observer Design Pattern]]
+	- Week 7
+		- [[DevOps]]
+		- [[Singleton]]
+		- [[State Design Pattern]]
+	- Week 8
+		- [[Composite Design Pattern]]
+		- [[Factory Design Pattern]]
+		- [[Iterator Design Pattern]]
 - How To Learn A Language
 	- Week 1
 		- [[Control]]
@@ -44,9 +54,10 @@
 	- Week 6
 		- [[Interfaces - OOP]]
 		- [[Abstraction - OOP]]
+	- Week 7
+		- [[Enums]]
+		- [[Exceptions]]
+		- [[File IO]]
 ## Use in obsidian
 1. Clone the [repo](https://github.com/ayan-ahmad/year-1-notes)
 2. Open `content/` in obsidian as a vault
-## Knowt (Flashcards)
-- [HTLANL](https://knowt.com/folder/e390c133-d82c-4a8e-afe3-8f4637d2d7a9)
-- [FPSE (W.I.P)](https://knowt.com/folder/43b4b6a0-37cc-4ab3-8e1b-87217741363d)

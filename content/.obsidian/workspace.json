@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Foundations of PSE/Week 8/Factory Design Pattern.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "path:\"How To Learn a New Language/\" ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Foundations of PSE/Week 8/Factory Design Pattern.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Foundations of PSE/Week 8/Factory Design Pattern.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Foundations of PSE/Week 8/Factory Design Pattern.md"
+                "file": "index.md"
               }
             }
           }
@@ -146,10 +147,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cc8bef8e71ae3b88",
+  "active": "9216f804bad4a2b3",
   "lastOpenFiles": [
-    "Foundations of PSE/Week 8/Iterator Design Pattern.md",
+    "Foundations of PSE/Week 1/Git(Lab).md",
+    "index.md",
     "Foundations of PSE/Week 8/Factory Design Pattern.md",
+    "Foundations of PSE/Week 8/Iterator Design Pattern.md",
     "Foundations of PSE/Week 8/Composite Design Pattern.md",
     "Foundations of PSE/Week 7/Singleton.md",
     "Foundations of PSE/Week 2/Cohesion.md",
@@ -165,7 +168,7 @@
     "How To Learn a New Language/Week 5/Polymorphism - OOP.md",
     "Foundations of PSE/Week 7/structure.png",
     "Foundations of PSE/Week 7/State Design Pattern.md",
-    "Foundations of PSE/Week 7/DevOps (Traditional) (W.I.P).md",
+    "Foundations of PSE/Week 7/DevOps.md",
     "Foundations of PSE/Week 7",
     "Foundations of PSE/Week 6/Strategy Design Pattern.md",
     "Foundations of PSE/Week 6/UML.md",
@@ -174,12 +177,10 @@
     "Foundations of PSE/Week 6",
     "Foundations of PSE/Week 2/Coupling.md",
     "Foundations of PSE/Week 1/Toolsets.md",
-    "Foundations of PSE/Week 1/Git(Lab).md",
     "Foundations of PSE/Week 1/Intellectual Property.md",
     "Foundations of PSE/Week 1/Privacy.md",
     "Foundations of PSE/Week 2/Navigating Codebase.md",
     "Foundations of PSE/Week 1/Software Legal Issues.md",
-    "index.md",
     "Foundations of PSE/Untitled",
     "Foundations of PSE/Week 5",
     "How To Learn a New Language/Week 5",
