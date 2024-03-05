@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Application Systems/Week 1/Networking.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Application Systems/Week 1/Networking.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Application Systems/Week 1/Networking.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Application Systems/Week 1/Networking.md"
+                "file": "index.md"
               }
             }
           }
@@ -148,13 +148,14 @@
   },
   "active": "f3946f996f13c554",
   "lastOpenFiles": [
+    "Computer Architecture and Network Systems/Week 1/Introduction to Systems.md",
+    "index.md",
+    "Web Application Systems/Week 1/Networking.md",
     "Web Application Systems/Week 1/Introduction to Web Apps.md",
     "Web Application Systems/Week 1/Introduction to the Internet.md",
     "Computer Architecture and Network Systems/Week 1/Microarchitecture.md",
-    "Computer Architecture and Network Systems/Week 1/Introduction to Systems.md",
     "Computer Architecture and Network Systems/Week 1/Assets/Levels of Abstraction Concept Maps.png",
     "Computer Architecture and Network Systems/Week 1/Frugal Computing.md",
-    "Web Application Systems/Week 1/Networking.md",
     "Web Application Systems/Week 1/Assets/Network Architecture.png",
     "Web Application Systems/Week 1/Assets",
     "Computer Architecture and Network Systems/Week 1/Assets/Usage.png",
@@ -190,7 +191,6 @@
     "How To Learn a New Language/Week 6/Interfaces - OOP.md",
     "How To Learn a New Language/Word Bank.md",
     "Foundations of PSE/Week 6/Strategy Design Pattern.md",
-    "Foundations of PSE/Week 6/UML.md",
-    "index.md"
+    "Foundations of PSE/Week 6/UML.md"
   ]
 }
