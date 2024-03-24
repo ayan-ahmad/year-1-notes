@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "2497dd618f25530e",
+        "id": "ed9b1dfebc2621ce",
         "type": "tabs",
         "children": [
           {
-            "id": "f3946f996f13c554",
+            "id": "5fae93e7c9831c3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Computer Architecture and Network Systems/Unit A3/UXN.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7e8af87751a8b391",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web Application Systems/Week 3/System Architecture.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "91bf8c89fb5e77f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Architecture and Network Systems/Unit A1/Basic Components of the CPU.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "von",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Web Application Systems/Week 3/System Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Web Application Systems/Week 3/System Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Web Application Systems/Week 3/System Architecture.md"
               }
             }
           }
@@ -146,51 +171,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f3946f996f13c554",
+  "active": "7e8af87751a8b391",
   "lastOpenFiles": [
-    "Computer Architecture and Network Systems/Week 1/Introduction to Systems.md",
-    "index.md",
-    "Web Application Systems/Week 1/Networking.md",
-    "Web Application Systems/Week 1/Introduction to Web Apps.md",
+    "Web Application Systems/Week 3/Database diagram.md",
+    "Web Application Systems/Week 2/Templates and URLs.md",
+    "Web Application Systems/Week 2/Information Architecture.md",
+    "Web Application Systems/Week 1/Views, Models and Templates.md",
+    "Web Application Systems/Week 1/Databases.md",
     "Web Application Systems/Week 1/Introduction to the Internet.md",
-    "Computer Architecture and Network Systems/Week 1/Microarchitecture.md",
-    "Computer Architecture and Network Systems/Week 1/Assets/Levels of Abstraction Concept Maps.png",
-    "Computer Architecture and Network Systems/Week 1/Frugal Computing.md",
+    "Web Application Systems/Week 1/Introduction to Web Apps.md",
+    "Web Application Systems/Week 1/Networking.md",
+    "index.md",
+    "Computer Architecture and Network Systems/Unit A1/Basic Components of the CPU.md",
+    "Computer Architecture and Network Systems/Unit A2/Pipelining.md",
+    "Computer Architecture and Network Systems/Unit A2/Computer Organisation Introduction.md",
+    "Computer Architecture and Network Systems/Unit A3/UXN.md",
+    "Computer Architecture and Network Systems/Unit A2/Performance.md",
+    "Computer Architecture and Network Systems/Unit A2/Memory.md",
+    "Computer Architecture and Network Systems/Unit A2/IO.md",
+    "Computer Architecture and Network Systems/Unit A2/Interconnects.md",
+    "Computer Architecture and Network Systems/Unit A2/Fetch Execute Cycle.md",
+    "Computer Architecture and Network Systems/Unit A3/Introductions to Instructions.md",
+    "Computer Architecture and Network Systems/Unit A3",
+    "Web Application Systems/Week 3/System Architecture.md",
+    "Web Application Systems/Week 3",
+    "Computer Architecture and Network Systems/Unit A2/Registers.md",
+    "Computer Architecture and Network Systems/Unit A1/Microarchitecture.md",
+    "Computer Architecture and Network Systems/Unit A1/Data Representation.md",
+    "Pasted image 20240318101528.png",
+    "Computer Architecture and Network Systems/Unit A2",
+    "Computer Architecture and Network Systems/Unit A1",
+    "Computer Architecture and Network Systems/Unit A1/Logic.md",
+    "Computer Architecture and Network Systems/Unit A1/Sequential Circuits.md",
+    "Computer Architecture and Network Systems/Unit A1/Combinational Logic.md",
+    "Web Application Systems/Week 2",
+    "Computer Architecture and Network Systems/Week 2",
+    "Web Application Systems/Week 1/Untitled",
+    "Computer Architecture and Network Systems/Unit A1/Assets/Levels of Abstraction Concept Maps.png",
     "Web Application Systems/Week 1/Assets/Network Architecture.png",
     "Web Application Systems/Week 1/Assets",
-    "Computer Architecture and Network Systems/Week 1/Assets/Usage.png",
-    "Computer Architecture and Network Systems/Week 1/Assets/Manufacturing.png",
+    "Computer Architecture and Network Systems/Unit A1/Assets/Usage.png",
+    "Computer Architecture and Network Systems/Unit A1/Assets/Manufacturing.png",
     "Computer Architecture and Network Systems/Week 1/Assets/Pasted image 20240305104603.png",
-    "Computer Architecture and Network Systems/Week 1/Assets/Computer Systems Abstraction.png",
-    "Computer Architecture and Network Systems/Week 1/Assets",
+    "Computer Architecture and Network Systems/Unit A1/Assets/Computer Systems Abstraction.png",
+    "Computer Architecture and Network Systems/Unit A1/Assets",
     "Computer Architecture and Network Systems/Week 1/Pasted image 20240304104017.png",
-    "Foundations of PSE/Week 7/DevOps (Traditional) (W.I.P).md",
     "Web Application Systems/Week 1",
-    "Computer Architecture and Network Systems/Week 1",
-    "Web Application Systems",
-    "Computer Architecture and Network Systems",
-    "Foundations of PSE/Week 8/Iterator Design Pattern.md",
-    "Foundations of PSE/Week 8/Factory Design Pattern.md",
-    "Foundations of PSE/Week 8/Composite Design Pattern.md",
-    "Foundations of PSE/Week 8",
-    "Foundations of PSE/Week 7/DevOps.md",
-    "Foundations of PSE/Week 7/Singleton.md",
     "Foundations of PSE/Week 7/structure.png",
-    "How To Learn a New Language/Week 7/Enums.md",
-    "How To Learn a New Language/Week 7/Exceptions.md",
-    "How To Learn a New Language/Week 7/File IO.md",
-    "Foundations of PSE/Week 7/State Design Pattern.md",
-    "Foundations of PSE/Word Bank.md",
-    "Foundations of PSE/Week 6/Observer Design Pattern.md",
-    "Pasted image 20231212000409.png.md",
-    "Assets",
-    "Pasted image 20231212000409.png",
-    "Foundations of PSE/Week 7",
-    "How To Learn a New Language/Week 6/Abstraction - OOP.md",
-    "How To Learn a New Language/Week 7",
-    "How To Learn a New Language/Week 6/Interfaces - OOP.md",
-    "How To Learn a New Language/Word Bank.md",
-    "Foundations of PSE/Week 6/Strategy Design Pattern.md",
-    "Foundations of PSE/Week 6/UML.md"
+    "Pasted image 20231212000409.png"
   ]
 }

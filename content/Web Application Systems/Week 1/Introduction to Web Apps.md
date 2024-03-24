@@ -77,4 +77,8 @@ The backend or database is typically on a separate node, and
 1. [Download Python](https://www.python.org/downloads/)
 2. [Set up the environment](https://www.freecodecamp.org/news/how-to-setup-virtual-environments-in-python/)
 3. Install Django 2.1.5 `pip install django==2.1.5`
+4. Install Pillow `pip install pillow==5.4.1`
+5. Run `python django-admin.py startproject [PROJECT_NAME]`
+6. Then run `python manage.py migrate`
+7. To run the server `python manage.py runserver`
 
