@@ -1,16 +1,45 @@
 ## What is this?
 These are my notes for the first year of the Apprentice Software Engineering BSc course at UofG. These notes are deployed on GH Pages using [Quartz](https://quartz.jzhao.xyz/).
 ## File Structure
+
+> [!WARNING] INCOMPLETE NOTES
+> CANS IS BY FAR NOT COMPLETED BEWARE
+
 - Computer Architecture and Network Systems
-	- Week 1
+	- Unit A1
 		- [[Introduction to Systems]]
 		- [[Microarchitecture]]
 		- [[Frugal Computing]]
+		- [[Data Representation]]
+		- [[Logic]]
+		- [[Combinational Logic]]
+		- [[Sequential Circuits]]
+		- [[Basic Components of the CPU]]
+	- Unit A2
+		- [[Computer Organisation Introduction]]
+		- [[Fetch Execute Cycle]]
+		- [[Registers]]
+		- [[Pipelining]]
+		- [[Interconnects]]
+		- [[Memory]]
+		- [[IO]]
+		- [[Performance]]
+	- Unit A3
+		- [[Introductions to Instructions]]
+		- [[UXN]]
 - Web Application Systems
 	- Week 1
 		- [[Introduction to Web Apps]]
 		- [[Introduction to the Internet]]
 		- [[Networking]]
+		- [[Databases]]
+		- [[Views, Models and Templates]]
+	- Week 2
+		- [[Templates and URLs]]
+		- [[Information Architecture]]
+	- Week 3
+		- [[System Architecture (WIP)]]
+		- [[Database diagram]]
 - Foundations of PSE
 	- Week 1
 		- [[Git(Lab)]]

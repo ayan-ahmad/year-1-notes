@@ -14,7 +14,6 @@ Let's break down https://example.com/blog/posts?post=34 and https://example.com/
 | ?post=34    | Key/Value parameter (GET) |
 | /34         | URL Path Parameter        |
 
-
 ## Three Patterns of Views
 ### Writing Views
 ```python
@@ -52,25 +51,85 @@ urlpatterns = [
 ]
 ```
 ## HTML Response for Views
-### CSS
-Django views can return HTML responses, which can include CSS for styling. Django's static files feature allows you to serve CSS, JavaScript, and images that are used by your HTML files.
+### Simple HTML
+We can simply respond with a HTML element in the `HTMLResponse` like so:
+```python
+from django.http import HttpResponse
 
+def index(request):
+	return HttpResponse("<h1>Hello, world.</h1><p>You're at the index page</p>")
+```
 ## Data sources
 ### Models
-Models in Django are used to represent data sources. A model is a Python class that inherits from the `django.db.models.Model` class, and represents a database table.
-
+Models in Django are used to represent data sources. A model is a Python class that inherits from the `django.db.models.Model` class, and represents a database table. Django uses SQLite by default.
 ### Creating Models
-To create a model, you define a class in models.py and specify the fields for the model. Each field is represented by an instance of a `Field` subclass (e.g., `CharField` for character fields and `IntegerField` for integer fields).
+To create a model, you define a class in `models.py` and specify the fields for the model.
+```python
+# models.py
 
-### Interfacing Models
-Django provides a high-level, Pythonic interface to your models. You can create, retrieve, update, and delete records using this interface.
+from django.db import models
+from django.utils import timezone
 
+class Post(models.Model):
+    title = models.CharField(max_length=64)
+    content = models.TextField()
+    created_date = models.DateTimeField(default=timezone.now)
+    published_date = models.DateTimeField(blank=True, null=True)
+
+    def __str__(self):
+        return self.title
+```
 ## Admin panel
 ### Registering models
-In Django, you can register your models with the admin site to make it easy to create, update, and delete records from your database via the admin interface.
+In Django, you can register your models in `admin.py` to show on the website.
+```python
+from django.contrib import admin
+from .models import Post
 
+admin.site.register(Post)
+```
 ## Response Codes
 Django views return HTTP response codes to indicate the status of the request. Common codes include 200 (OK), 404 (Not Found), and 500 (Internal Server Error).
+## URL Mappings
+To create more complex mappings we can do:
+```python
+# urls.py
 
+from django.urls import path
+from . import views
+
+urlpatterns = [
+    path('', views.index, name='index'),  # Map the root URL to the index view
+    path('<int:post_id>/', views.detail, name='detail'),  # Map post detail URL with post ID
+    path('<int:post_id>/edit/', views.edit, name='edit'),  # Map post edit URL with post ID
+    path('create/', views.create, name='create'),  # Map post creation URL
+]
+```
 ## Templates
-Django uses a template system to generate dynamic HTML responses. You can use the Django template language to create templates that can include variables, tags, and filters.
+Here is an example of a template, we will talk about this more in [[Templates and URLs]]:
+```html
+<!-- templates/index.html -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Blog</title>
+</head>
+<body>
+    <h1>Welcome to My Blog</h1>
+    <ul>
+        {% for post in posts %}
+            <li>
+                <h2>{{ post.title }}</h2>
+                <p>{{ post.content }}</p>
+                <p>Published by {{ post.author }} on {{ post.published_date }}</p>
+            </li>
+        {% endfor %}
+    </ul>
+</body>
+</html>
+
+```
+
